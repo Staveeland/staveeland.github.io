@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["7D6FXJ9R4W.com.tilmiddag.WeeklyPlanner"],
+        "components": [
+          { "/": "/WeeklyPlanner/invite.html", "?": { "code": "?*" }, "comment": "Invitations open straight in the app" }
+        ]
+      }
+    ]
+  }
+}
